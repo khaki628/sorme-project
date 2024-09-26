@@ -1,3 +1,5 @@
+#React and Nextjs
+
 The sorme project has two separate sections, sorme panel and sorme project
 
 sorme project : This part of the project includes the main page and the product page that users enter through this section to visit the store
